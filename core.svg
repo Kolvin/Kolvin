@@ -30,12 +30,12 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -133,17 +133,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 12.7kb of code in 36 edited files across 20 commits over last 13 days</small>
+                <small>estimation from 12.3kb of code in 35 edited files across 19 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="218.54895428465667" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="218.54895428465667" y="0" width="96.631501017953" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="315.1804553026097" y="0" width="75.68758097353322" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="390.8680362761429" y="0" width="37.12011845271145" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="427.9881547288544" y="0" width="32.01184527114566" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="199.60878243512974" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="199.60878243512974" y="0" width="104.21157684630738" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="303.82035928143716" y="0" width="81.62475049900199" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="385.44510978043917" y="0" width="40.03193612774451" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="425.47704590818364" y="0" width="34.522954091816366" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -195,7 +195,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bwmarrin/discordgo</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">(Golang) Go bindings for Discord</div>
@@ -248,7 +248,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jdalrymple/gitbeaker</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤖 GitLab API NodeJS library with full support of all the Gitlab API services.</div>
@@ -301,7 +301,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cespare/reflex</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run a command when files change</div>
@@ -354,7 +354,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pnpm/pnpm</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具</div>
